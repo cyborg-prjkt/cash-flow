@@ -1,5 +1,5 @@
 # cash-flow
-calculate income and expenses
+### calculate income and expenses
 
 ## 💰 Cash Flow Tracker
 
