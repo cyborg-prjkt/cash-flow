@@ -4,8 +4,7 @@ calculate income and expenses
 ## 💰 Cash Flow Tracker
 
 A simple Python-based application to track **income and expenses**.  
-This project helps you manage personal finance, monitor your cash flow, and generate reports.  
-Data is stored in a CSV file, making it easy to save, load, and analyze with spreadsheets.
+This project helps you manage personal finance and monitor your cash flow.
 
 ---
 
