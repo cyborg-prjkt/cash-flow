@@ -18,3 +18,7 @@ Data is stored in a CSV file, making it easy to save, load, and analyze with spr
 
 ---
 
+<div align="center">
+  📜 License</br>
+  MIT © 2025 CYBORG</br>
+</div>
