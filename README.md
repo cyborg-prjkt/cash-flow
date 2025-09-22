@@ -12,8 +12,6 @@ Data is stored in a CSV file, making it easy to save, load, and analyze with spr
 ## 🚀 Features
 - Add **income** and **expense** records.
 - Automatically calculate **balance**.
-- Save all transactions into a CSV file.
-- Display daily, monthly, or total cash flow.
 - Simple **command-line interface (CLI)** for easy use.
 
 ---
