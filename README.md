@@ -17,5 +17,5 @@ This project helps you manage personal finance and monitor your cash flow.
 
 <div align="center">
   📜 License</br>
-  MIT © 2025 CYBORG</br>
+  APACHE 2.0 © 2025 CYBORG</br>
 </div>
